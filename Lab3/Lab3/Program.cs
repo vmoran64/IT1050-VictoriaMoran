@@ -13,7 +13,7 @@ namespace Lab3
 
             //2. If provides a flowchart method of options- If one condition is fullfilled this,
             // other wise this, and so on. While acts as a loop. Every action changes the subject,
-            // the program continues to act until outside of the action parameters.
+            // the program continues to act until outside of the action parameters..
             {
                 //3
                 int speedlimit;
